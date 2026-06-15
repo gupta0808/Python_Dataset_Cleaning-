@@ -1,5 +1,5 @@
 # Data Cleaning Master - Python Application
-![Python Dataset Cleaning](Data Cleaning Master.png)
+![Python Dataset Cleaning](Data_Cleaning_Master.png)
 ## Project Overview
 
 Data Cleaning Master is a Python-based application designed to automate the data cleaning process for CSV and Excel datasets. The application efficiently handles duplicate records, missing values, and dataset validation, producing a clean and analysis-ready dataset within seconds.
