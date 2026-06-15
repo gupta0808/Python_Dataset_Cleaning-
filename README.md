@@ -256,19 +256,6 @@ This project can be used for:
 * ETL Processes
 * Academic Research Projects
 
----
-
-# Future Enhancements
-
-Potential improvements include:
-
-* Graphical User Interface (GUI)
-* Streamlit Web Application
-* Automated Data Profiling Reports
-* Outlier Detection
-* Logging and Error Tracking
-* Support for Additional File Formats
-* Data Validation Rules Engine
 
 ---
 
