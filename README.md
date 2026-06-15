@@ -296,7 +296,6 @@ Aspiring Data Scientist with expertise in:
 * Python
 * SQL
 * Power BI
-* Tableau
 * Excel
 * Data Analysis
 * Data Science
